@@ -1,12 +1,20 @@
 [
   {
+    "nombre":"Salud emocional",
+    "descripcion":["Inteligencia emocional","Meditación","Autoestima y autoconfianza","Amor propio / cuidado personal","Manejo de pensamientos","Las emociones","Manejo de estrés","Relaciones sociales","Resiliencia","Balance entre vida y trabajo","La alimentación y las emociones","El sueño"]
+  }
+  {
     "nombre":"Salud fìsica",
-  "descripcion":"Alimentación, Ejercicio, Biofísica, Reiki, Medicina?, Ayurveda?, Acupuntura, Homeopatía, Yoga, Magnetoterapia."
+    "descripcion":["Alimentación","Ejercicio","Biofísica","Medicina Germánica","Reiki","Ayurveda","Acupuntura","Homeopatía","Yoga","Magnetoterapia","Aromaterapia","Musicoteraía","Barras de acceso","¿Cómo autosanarnos?"]
   },
   {
-    "nombre":"Dinero/Finanzas",
-  "descripcion":"Negocios y emprendimiento, Ahorro, Finanzas personales, Qué es un activo y un pasivo, Administración, Inversiones, Seguros, Qué es el dinero, Creencias sobre el dinero, Amar el dinero, Abundacia."
+    "nombre":"Dinero y Finanzas",
+    "descripcion":["¿Qué es el dinero?","Creencias sobre el dinero","Amor al dinero","Abundancia","Emprendimiento","Ahorro","Finanzas personales","Activos y pasivos","Administración", "Inversiones", "Seguros", "¿Cómo manifestar dinero?"]
   },
+  {
+    "nombre":"Espiritualidad",
+    "descripcion":[""]
+  }
   {
     "nombre":"Pareja",
     "descripcion":"?"
