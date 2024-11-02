@@ -13,46 +13,34 @@
   },
   {
     "nombre":"Espiritualidad",
-    "descripcion":[""]
+    "descripcion":["Metaísica Cristiana","Conversaciones con Dios","El TAO","Budísmo","Física cuántica","Meditación","Constelaciones familiares","El Amor","El Perdón","La Gratitud","La Humildad","El Servicio","La Muerte","El Miedo"]
   }
   {
     "nombre":"Pareja",
-    "descripcion":"?"
-  },
-  {
-    "nombre":"Familia",
-    "descripcion":"Familia Tóxica, Comunicación , Dependencia familiar, Responsabilidades, Roles, Creencias familiares."
-  },
-  {
-    "nombre":"Hijos",
-    "descripcion":"Crianza positiva, Hablando de sexo, Cómo atender los berrinches?, Autoestima para hijos, Comunicación con mis hijos, Cómo prevenir el abuso infantil, Problemas de aprendizaje, Transtornos infantiles, Problemas de lenguaje, Bullying, Cómo explicar un divorcio, Etapas del desgano?"
-  },
-  {
-    "nombre":"Profesion",
-    "descripcion":"Proyecto de vida, Crisis existencial, Liderazgo, Trabajo en equipo, Comunicación acertiva, Habilidades sociales, Uso de herramientas tecnológias."
-  },
-  {
-    "nombre":"Amigos",
-    "descripcion":"Amistades tóxicas, Comunicaciòn acertiva, Lealtad y empatía."
-  },
-  {
-    "nombre":"Diversion",
-    "descripcion":"?"
-  },
-  {
-    "nombre":"Espiritualidad",
-    "descripcion":"Conceptos de Dios, TAO?, Preceptos Budistas?, Física cuántica, Metafísica, Meditación, Constelaciones familiares, Yoga, Artes marciales"
-  },
-  {
-    "nombre":"Crecimiento Personal",
-    "descripcion":"Meditación, Mindfulness, Libros, Audiolibros, Cursos, Pláticas, Autoestima"
+    "descripcion":["Comunicación","Amor de pareja","Roles","Tiempo de calidad","Crecimiento personal en pareja","Sexualidad","Finanzas en pareja","Toma de desiciones"]
   },
   {
     "nombre":"Sexualidad",
-    "descripcion":"Tántrica, Biofísica, Diversidad sexual, Masturbación."
+    "descripcion":["Tantra","Energía sexual","Diversidad sexual","Masturvación","Educación sexual básica","Comunicación sexual","Relaciones y sexualidad","El sexo y la edad"]
   },
   {
-    "nombre":"Niños",
-    "descripcion":"Manejo de emociones, Autoestima, Autocuidado, Ejercicios de lenguaje, Cómo encontrar a mis padres?, Mis padres se divorcian?, Qué me gusta, Qué te gustaría ser de grande, Uso de la tecnología"
+    "nombre":"Familia",
+    "descripcion":["Dependencias familiares", "Comunicación", "Responsabilidades,", "Roles", "Creencias familiares","Finanzas familiares","Relación entre hermanos"]
+  },
+  {
+    "nombre":"Hijos",
+    "descripcion":["Crianza positiva","Hablando de sexo", "Límites positivos","Berrinches","Autoestima en los hijos","Comunicación con los hijos","Prevensión de abuso infantil","Etapas del desarrollo","Problemas de aprendizaje","Transtornos infantiles","Problemas de lenguaje","Bulling","Cómo explicar un divorcio","Cómo explicar un duelo"]
+  },
+  {
+    "nombre":"Profesion",
+    "descripcion":["Productividad en el trabajo","Desarrollo de habilidades","Liderazgo y gestion de equipo","Búsqueda de empleo","Networking y relaciones","Emprendimiento","Cambio de carrera","Manejo del estrés laboral","Inteligencia emocional en el trabajo","Tu marca personal","Gestión de Redes Sociales"]
+  },
+  {
+    "nombre":"Amigos",
+    "descripcion":["Importancia de las amistades","Cómo hacer nuevas amistades","Cómo tener amistades duraderas","Amistad en la era digital","Resolución de conflictos entre amigos","Amistad y salud mental","Dicersidad en la amistad","Amistad y límites personales","Papel de la empatía en la amistad","Cómo superar la perdida de una amistad"]
+  },
+  {
+    "nombre":"Contenido para niños",
+    "descripcion":["Reconoce tus emociones","Cómo manejar tu enojo y estrés","Aprende a practicar la gratitud","Amistad y relaciones positivas","Autoestima y confianza en ti","Qué es la meditación","La familia","Los padres","Importancia del ejercicio","Alimentación saludable","Higiene personal","Sueño y descanso","Visita al médico y dentista","Hidratación","Uso de la tecnología","Cuentos y Fábulas","Juegos educativos","Manualidades y arte"]
   }
 ]
