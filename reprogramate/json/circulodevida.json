@@ -1,7 +1,7 @@
 [
   {
     "nombre":"Salud emocional",
-    "descripcion":["Inteligencia emocional","Meditación","Autoestima y autoconfianza","Amor propio / cuidado personal","Manejo de pensamientos","Las emociones","Manejo de estrés","Relaciones sociales","Resiliencia","Balance entre vida y trabajo","La alimentación y las emociones","El sueño"],
+    "descripcion":["Inteligencia emocional","Meditación","Autoestima y autoconfianza","Amor propio / cuidado personal","Manejo de pensamientos"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_cognition.svg"
   },
   {
