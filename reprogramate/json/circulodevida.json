@@ -6,52 +6,52 @@
   },
   {
     "nombre":"Salud física",
-    "descripcion":["Alimentación","Ejercicio","Biofísica","Medicina Germánica","Reiki","Ayurveda","Acupuntura","Homeopatía","Yoga","Magnetoterapia","Aromaterapia","Musicoteraía","Barras de acceso","¿Cómo autosanarnos?"],
+    "descripcion":["Alimentación","Ejercicio","Biofísica","Medicina Germánica","Reiki"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_ecg_heart.svg"
   },
   {
     "nombre":"Dinero y Finanzas",
-    "descripcion":["¿Qué es el dinero?","Creencias sobre el dinero","Amor al dinero","Abundancia","Emprendimiento","Ahorro","Finanzas personales","Activos y pasivos","Administración", "Inversiones", "Seguros", "¿Cómo manifestar dinero?"],
+    "descripcion":["¿Qué es el dinero?","Creencias sobre el dinero","Amor al dinero","Abundancia","Emprendimiento"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_payments.svg"
   },
   {
     "nombre":"Espiritualidad",
-    "descripcion":["Metafísica Cristiana","Conversaciones con Dios","El TAO","Budísmo","Física cuántica","Meditación","Constelaciones familiares","El Amor","El Perdón","La Gratitud","La Humildad","El Servicio","La Muerte","El Miedo"],
+    "descripcion":["Metafísica Cristiana","Conversaciones con Dios","El TAO","Budísmo","Física cuántica"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_folded_hands.svg"
   },
   {
     "nombre":"Pareja",
-    "descripcion":["Comunicación","Amor de pareja","Roles","Tiempo de calidad","Crecimiento personal en pareja","Sexualidad","Finanzas en pareja","Toma de desiciones"],
+    "descripcion":["Comunicación","Amor de pareja","Roles","Tiempo de calidad","Crecimiento personal en pareja"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_group.svg"
   },
   {
     "nombre":"Sexualidad",
-    "descripcion":["Tantra","Energía sexual","Diversidad sexual","Masturvación","Educación sexual básica","Comunicación sexual","Relaciones y sexualidad","El sexo y la edad"],
+    "descripcion":["Tantra","Energía sexual","Diversidad sexual","Masturvación","Educación sexual básica"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_favorite.svg"
   },
   {
     "nombre":"Familia",
-    "descripcion":["Dependencias familiares", "Comunicación", "Responsabilidades,", "Roles", "Creencias familiares","Finanzas familiares","Relación entre hermanos"],
+    "descripcion":["Dependencias familiares", "Comunicación", "Responsabilidades","Roles", "Creencias familiares"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_family_restroom.svg"
   },
   {
     "nombre":"Hijos",
-    "descripcion":["Crianza positiva","Hablando de sexo", "Límites positivos","Berrinches","Autoestima en los hijos","Comunicación con los hijos","Prevensión de abuso infantil","Etapas del desarrollo","Problemas de aprendizaje","Transtornos infantiles","Problemas de lenguaje","Bulling","¿Cómo explicar un divorcio?","¿Cómo explicar un duelo?"],
+    "descripcion":["Crianza positiva","Hablando de sexo", "Límites positivos","Berrinches","Autoestima en los hijos"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_breastfeeding.svg"
   },
   {
     "nombre":"Profesión",
-    "descripcion":["Productividad en el trabajo","Desarrollo de habilidades","Liderazgo y gestion de equipo","Búsqueda de empleo","Networking y relaciones","Emprendimiento","Cambio de carrera","Manejo del estrés laboral","Inteligencia emocional en el trabajo","Tu marca personal","Gestión de Redes Sociales"],
+    "descripcion":["Productividad en el trabajo","Desarrollo de habilidades","Liderazgo y gestion de equipo","Búsqueda de empleo","Networking y relaciones"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_work.svg"
   },
   {
     "nombre":"Amigos",
-    "descripcion":["Importancia de las amistades","¿Cómo hacer nuevas amistades?","¿Cómo tener amistades duraderas?","Amistad en la era digital","Resolución de conflictos entre amigos","Amistad y salud mental","Dicersidad en la amistad","Amistad y límites personales","Papel de la empatía en la amistad","¿Cómo superar la perdida de una amistad?"],
+    "descripcion":["Importancia de las amistades","¿Cómo hacer nuevas amistades?","¿Cómo tener amistades duraderas?","Amistad en la era digital","Resolución de conflictos entre amigos"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_diversity_2.svg"
   },
   {
     "nombre":"Contenido para niños",
-    "descripcion":["Reconoce tus emociones","¿Cómo manejar tu enojo y estrés?","Aprende a practicar la gratitud","Amistad y relaciones positivas","Autoestima y confianza en ti","¿Qué es la meditación?","La familia","Los padres","Importancia del ejercicio","Alimentación saludable","Higiene personal","Sueño y descanso","Visita al médico y dentista","Hidratación","Uso de la tecnología","Cuentos y Fábulas","Juegos educativos","Manualidades y arte"],
+    "descripcion":["Reconoce tus emociones","¿Cómo manejar tu enojo y estrés?","Aprende a practicar la gratitud","Amistad y relaciones positivas","Autoestima y confianza en ti"],
     "imagen":"https://raw.githubusercontent.com/DR-Frontend/media-assets/refs/heads/master/reprogramate/icons/vida_child_care.svg"
   }
 ]
